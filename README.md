@@ -1,6 +1,6 @@
 # AnKi 3D Engine 2007
 
-This is how AnKi 3D Engine looked back in 2007/2008, even before it had a name. It's uploaded on github for purely historical reasons.
+This is how AnKi 3D Engine looked back in 2007/2008, even before it had a name. It is uploaded on github for purely historical/archeological reasons.
 
 Some interesting facts:
 - It started as a simple skeletal animation project and grow to what it is now.
